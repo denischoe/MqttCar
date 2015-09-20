@@ -1,0 +1,21 @@
+.panel-heading{
+	text-align: center;
+}
+.form-horizontal .sign-in,
+ .form-horizontal .new-user,
+ .form-horizontal .register{
+ 	text-align: center;
+
+ }
+ .form-horizontal .register{
+ 	display: none;
+ 	
+ }
+
+@media (max-width: 768px) {
+	.test form{ 
+		background: black;
+		display: none;
+	}
+}
+
