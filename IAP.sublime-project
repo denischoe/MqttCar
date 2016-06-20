@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/AIPPROJECT"
+		}
+	],
+	"settings": {
+		"xdebug":{
+			"url": "http://localhost/AIPPROJECT"
+		}
+
+	}
+}
